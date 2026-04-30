@@ -121,4 +121,3 @@ Pull requests welcome. If you have additional frameworks, reference materials, o
 
 ---
 
-*Built with [Claude Code](https://claude.ai/claude-code) using the skill-creator skill.*
